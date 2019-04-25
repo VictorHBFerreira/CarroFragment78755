@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CarroFragment78755</string>
+    <string name="fusca">Fusca</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="tesla">Tesla</string>
+    <string name="carro4">cArro4</string>
+    <string name="ferrari_488">Ferrari 488</string>
+    <string name="ano_2015">Ano: 2015</string>
+    <string name="ano_1938">Ano: 1938</string>
+    <string name="cambio_manual">Cambio: Manual</string>
+    <string name="tesla_model_x">Tesla Model X</string>
+    <string name="ano_2017">Ano: 2017</string>
+    <string name="cambio_automatico">Cambio: Automatico</string>
+    <string name="combustivel_gasolina_e_eletrico">Combustivel: Gasolina e Eletrico</string>
+    <string name="q_eor_23">Q#eOR@23</string>
+    <string name="ano_0000">Ano: 0000</string>
+    <string name="cambio_00000000">Cambio: 00000000</string>
+    <string name="combustivel_000000000">Combustivel: 000000000</string>
+</resources>
